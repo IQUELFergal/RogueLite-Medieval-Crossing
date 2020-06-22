@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafbfe1e001f41e499f823163b42b079, type: 3}
+  m_Name: TESTWeapon
+  m_EditorClassIdentifier: 
+  projectilePrefab: {fileID: 8763790475675221312, guid: 2708c447782f75e489c8dcfa8b8ad21e,
+    type: 3}
+  usedSprite: {fileID: -4254059877319897387, guid: 2588b91f1084beb459cd105de1acf26d,
+    type: 3}
+  droppedSprite: {fileID: -4254059877319897387, guid: 2588b91f1084beb459cd105de1acf26d,
+    type: 3}
+  shootingParticle: {fileID: 0}
+  fireRate: 3

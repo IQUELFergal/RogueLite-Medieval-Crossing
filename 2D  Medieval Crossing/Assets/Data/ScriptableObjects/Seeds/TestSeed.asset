@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c82a732cb3d48d418fa9b7d386d8f82, type: 3}
+  m_Name: TestSeed
+  m_EditorClassIdentifier: 
+  name: Test Seed
+  icon: {fileID: -5643105228771564274, guid: 93f6c3a83fe412f45b72d7838ab6f67e, type: 3}
+  growStages:
+  - {fileID: 6719169754601135636, guid: 93f6c3a83fe412f45b72d7838ab6f67e, type: 3}
+  - {fileID: -2299854438439939197, guid: 93f6c3a83fe412f45b72d7838ab6f67e, type: 3}
+  - {fileID: 8813388069999582564, guid: 93f6c3a83fe412f45b72d7838ab6f67e, type: 3}
+  - {fileID: -2793295684867730318, guid: 93f6c3a83fe412f45b72d7838ab6f67e, type: 3}
+  minGrowDuration: 500
+  maxGrowDuration: 501
+  vegetable: {fileID: 11400000, guid: f0ba81d2523a3e6469387ab7e8de933e, type: 2}

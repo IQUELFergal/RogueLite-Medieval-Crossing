@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55adf997c4ca6714ca5c13e989584b56, type: 3}
+  m_Name: Test Large Box
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 7934097695418281947, guid: c26bb715856f3b64fa09c0f88b2c1660, type: 3}
+  - {fileID: 848918180631441620, guid: c26bb715856f3b64fa09c0f88b2c1660, type: 3}
+  - {fileID: 8817406809503585322, guid: c26bb715856f3b64fa09c0f88b2c1660, type: 3}
+  - {fileID: 967490112034320264, guid: c26bb715856f3b64fa09c0f88b2c1660, type: 3}
+  colliderSettings:
+  - scaleY: 0.5
+    offsetY: 0
+  - scaleY: 0.6666667
+    offsetY: 0
+  - scaleY: 0.5
+    offsetY: 0
+  - scaleY: 0.6666667
+    offsetY: 0
